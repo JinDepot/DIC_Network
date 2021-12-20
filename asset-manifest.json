@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DIC_Network/static/css/main.fc9f44ec.css",
-    "main.js": "/DIC_Network/static/js/main.31d92ffb.js",
-    "static/js/787.91c1e552.chunk.js": "/DIC_Network/static/js/787.91c1e552.chunk.js",
-    "index.html": "/DIC_Network/index.html",
-    "main.fc9f44ec.css.map": "/DIC_Network/static/css/main.fc9f44ec.css.map",
-    "main.31d92ffb.js.map": "/DIC_Network/static/js/main.31d92ffb.js.map",
-    "787.91c1e552.chunk.js.map": "/DIC_Network/static/js/787.91c1e552.chunk.js.map"
+    "main.css": "/static/css/main.fc9f44ec.css",
+    "main.js": "/static/js/main.b0cf11c5.js",
+    "static/js/787.91c1e552.chunk.js": "/static/js/787.91c1e552.chunk.js",
+    "index.html": "/index.html",
+    "main.fc9f44ec.css.map": "/static/css/main.fc9f44ec.css.map",
+    "main.b0cf11c5.js.map": "/static/js/main.b0cf11c5.js.map",
+    "787.91c1e552.chunk.js.map": "/static/js/787.91c1e552.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc9f44ec.css",
-    "static/js/main.31d92ffb.js"
+    "static/js/main.b0cf11c5.js"
   ]
 }
