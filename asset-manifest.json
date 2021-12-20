@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/DIC_Network/static/css/main.fc9f44ec.css",
-    "main.js": "/github.io/DIC_Network/static/js/main.9bc8fc56.js",
-    "static/js/787.91c1e552.chunk.js": "/github.io/DIC_Network/static/js/787.91c1e552.chunk.js",
-    "index.html": "/github.io/DIC_Network/index.html",
-    "main.fc9f44ec.css.map": "/github.io/DIC_Network/static/css/main.fc9f44ec.css.map",
-    "main.9bc8fc56.js.map": "/github.io/DIC_Network/static/js/main.9bc8fc56.js.map",
-    "787.91c1e552.chunk.js.map": "/github.io/DIC_Network/static/js/787.91c1e552.chunk.js.map"
+    "main.css": "/DIC_Network/static/css/main.fc9f44ec.css",
+    "main.js": "/DIC_Network/static/js/main.31d92ffb.js",
+    "static/js/787.91c1e552.chunk.js": "/DIC_Network/static/js/787.91c1e552.chunk.js",
+    "index.html": "/DIC_Network/index.html",
+    "main.fc9f44ec.css.map": "/DIC_Network/static/css/main.fc9f44ec.css.map",
+    "main.31d92ffb.js.map": "/DIC_Network/static/js/main.31d92ffb.js.map",
+    "787.91c1e552.chunk.js.map": "/DIC_Network/static/js/787.91c1e552.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc9f44ec.css",
-    "static/js/main.9bc8fc56.js"
+    "static/js/main.31d92ffb.js"
   ]
 }
