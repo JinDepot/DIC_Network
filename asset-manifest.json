@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/products/DIC_firm_network/static/css/main.af9c0801.css",
+    "main.js": "/products/DIC_firm_network/static/js/main.4ec09d0e.js",
+    "static/js/787.91c1e552.chunk.js": "/products/DIC_firm_network/static/js/787.91c1e552.chunk.js",
+    "index.html": "/products/DIC_firm_network/index.html",
+    "main.af9c0801.css.map": "/products/DIC_firm_network/static/css/main.af9c0801.css.map",
+    "main.4ec09d0e.js.map": "/products/DIC_firm_network/static/js/main.4ec09d0e.js.map",
+    "787.91c1e552.chunk.js.map": "/products/DIC_firm_network/static/js/787.91c1e552.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9c0801.css",
+    "static/js/main.4ec09d0e.js"
+  ]
+}
