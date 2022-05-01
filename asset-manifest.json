@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DIC_Network/static/css/main.fc9f44ec.css",
-    "main.js": "/DIC_Network/static/js/main.31d92ffb.js",
+    "main.css": "/DIC_Network/static/css/main.030998f6.css",
+    "main.js": "/DIC_Network/static/js/main.63e31ccc.js",
     "static/js/787.91c1e552.chunk.js": "/DIC_Network/static/js/787.91c1e552.chunk.js",
     "index.html": "/DIC_Network/index.html",
-    "main.fc9f44ec.css.map": "/DIC_Network/static/css/main.fc9f44ec.css.map",
-    "main.31d92ffb.js.map": "/DIC_Network/static/js/main.31d92ffb.js.map",
+    "main.030998f6.css.map": "/DIC_Network/static/css/main.030998f6.css.map",
+    "main.63e31ccc.js.map": "/DIC_Network/static/js/main.63e31ccc.js.map",
     "787.91c1e552.chunk.js.map": "/DIC_Network/static/js/787.91c1e552.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc9f44ec.css",
-    "static/js/main.31d92ffb.js"
+    "static/css/main.030998f6.css",
+    "static/js/main.63e31ccc.js"
   ]
 }
